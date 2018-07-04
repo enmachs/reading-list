@@ -1,0 +1,1 @@
+{"modulePrefix":"reading-list","environment":"test","rootURL":"/","locationType":"none","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"reading-list","version":"0.0.0+934a8675"},"exportApplicationGlobal":true}
